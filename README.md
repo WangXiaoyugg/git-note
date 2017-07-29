@@ -12,3 +12,4 @@
 9. git diff
 10. git clone http://github.com/xxx
 11. git checkout hello.js
+12. git pull
