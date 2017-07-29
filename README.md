@@ -10,3 +10,5 @@
 8. git push -u origin master
 
 9. git diff
+10. git clone http://github.com/xxx
+11. git checkout hello.js
