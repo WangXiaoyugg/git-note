@@ -13,3 +13,10 @@
 10. git clone http://github.com/xxx
 11. git checkout hello.js
 12. git pull
+
+13. git diff --staged
+14. git mv file1 file2
+15. git rm log/\*.log
+16. git log	
+17. git log -p -2
+
