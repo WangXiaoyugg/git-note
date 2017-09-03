@@ -1,0 +1,12 @@
+node_modules
+*.[oa]
+*~
+*.a
+# 但 lib.a除外
+!lib.a
+/TODO
+build/
+doc/*.txt
+
+# ignore all .txt files in the doc/ directory
+doc/**/*.txt
