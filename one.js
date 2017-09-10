@@ -6,4 +6,6 @@ console.log('hello javascript')
 
 console.log('hello git')
 
+console.log('hello issue 53')
+
 console.log('hello world')
